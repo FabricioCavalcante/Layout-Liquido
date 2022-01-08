@@ -1,2 +1,2 @@
-# Layout líquido
+# Layout Líquido com HTML e CSS.
  
